@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+
 A simple countdown.
 
 ## How to test
 
+
 Just hit play and it will start the counter.
 
 ## External hardware
+
 
 Dont need any extra hardware, keeping it simple.
